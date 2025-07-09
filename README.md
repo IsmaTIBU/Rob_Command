@@ -1,3 +1,5 @@
+[Clickez ici pour lire le document traduit au français](fr_README.md)
+
 # Articular Command of an RP Type Robotic Manipulator
 
 This project focuses on simulating various control strategies for a simple RP-type robotic manipulator using MATLAB-SIMULINK. The objective is to develop and test control schemes for the joint variables of the robot to follow predefined trajectories. 
